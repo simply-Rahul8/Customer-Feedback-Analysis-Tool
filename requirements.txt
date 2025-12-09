@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy==1.4.52
+pydantic==1.10.13
+python-dotenv
+openai
+pytest
+pytest-mock
+requests
+streamlit
