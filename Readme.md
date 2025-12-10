@@ -3,6 +3,8 @@
 
 A hybrid rule-based + AI-assisted system designed to analyze customer feedback with low latency, fault tolerance, and scalable architecture. The tool processes user messages, categorizes sentiment, extracts topics, triggers alerts, and provides a lightweight UI for interaction.
 
+To run the pipeline cmd: python run_pipeline.py
+
 ---
 
 ## **1. Design Rationale**
